@@ -154,7 +154,7 @@ class SudokuUI():
 
 
 
-
-root = Tk()
-x = SudokuUI(root)
-root.mainloop()
+if __name__ == "__main__":
+    root = Tk()
+    x = SudokuUI(root)
+    root.mainloop()
