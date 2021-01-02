@@ -1,4 +1,4 @@
-#Sudoku Solver
+# Sudoku Solver
 
 This is a Sudoku solver with a simple GUI built by python
 
